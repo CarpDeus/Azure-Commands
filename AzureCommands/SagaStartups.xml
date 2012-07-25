@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<entry xml:base="http://finseldemos.table.core.windows.net/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+ <m:properties>
+  <d:PartitionKey>RegistrationDetails</d:PartitionKey>
+  <d:RowKey>0fabde19-5a57-4075-85fa-11fd2acd282c</d:RowKey>
+  <d:UserID>BSBEV</d:UserID>
+  <d:EventID>VSLiveLV09</d:EventID>
+  <d:RegisteredOn  m:type="Edm.DateTime">2009-05-10T15:00:00Z</d:RegisteredOn>
+  <d:PaymentType>PO</d:PaymentType>
+  <d:PaymentDetails><![CDATA[Various company information might be here]]></d:PaymentDetails>
+  <d:RegistrationStatus>Pending</d:RegistrationStatus>
+ </m:properties>
+  <m:properties>
+  <d:PartitionKey>RegistrationDetails</d:PartitionKey>
+  <d:RowKey>3d100889-ba9b-4659-b929-30028e8a5b63</d:RowKey>
+  <d:UserID>ANTON</d:UserID>
+  <d:EventID>VSLiveLV09</d:EventID>
+  <d:RegisteredOn  m:type="Edm.DateTime">2009-05-10T18:00:00Z</d:RegisteredOn>
+  <d:PaymentType>CreditCard</d:PaymentType>
+  <d:PaymentDetails><![CDATA[Various credit card details]]></d:PaymentDetails>
+  <d:RegistrationStatus>Pending</d:RegistrationStatus>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegistrationDetails</d:PartitionKey>
+  <d:RowKey>bf8c3ac0-4bcf-43f2-91bc-415402ebc368</d:RowKey>
+  <d:UserID>BLONP</d:UserID>
+  <d:EventID>VSLiveLV09</d:EventID>
+  <d:RegisteredOn  m:type="Edm.DateTime">2009-05-10T18:00:00Z</d:RegisteredOn>
+  <d:PaymentType>CreditCard</d:PaymentType>
+  <d:PaymentDetails><![CDATA[Various credit card details]]></d:PaymentDetails>
+  <d:RegistrationStatus>Pending</d:RegistrationStatus>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegistrationDetails</d:PartitionKey>
+  <d:RowKey>c0b47aa5-2485-4e51-b8c1-40e3b4f804fc</d:RowKey>
+  <d:UserID>DRACD</d:UserID>
+  <d:EventID>VSLiveLV09</d:EventID>
+  <d:RegisteredOn  m:type="Edm.DateTime">2009-05-10T18:00:00Z</d:RegisteredOn>
+  <d:PaymentType>CreditCard</d:PaymentType>
+  <d:PaymentDetails><![CDATA[Various credit card details]]></d:PaymentDetails>
+  <d:RegistrationStatus>Pending</d:RegistrationStatus>
+ </m:properties>
+</entry>

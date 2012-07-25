@@ -1,0 +1,41 @@
+﻿<Window x:Class="AzureCommandsWPF.DeleteContainer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DeleteContainer" Height="300" Width="300">
+    <Window.Resources>
+
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="LightBlue" Offset="0" />
+                <GradientStop Color="White" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition MaxHeight="30"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition MaxHeight="30"></RowDefinition>
+            
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3">
+            <Label>Container Name:</Label>
+            <TextBox Name="txtNewContainerName" MinWidth="200" IsReadOnly="True" ></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3">
+            <Label FontWeight="ExtraBold" FontSize="16">WARNING</Label>
+            <TextBlock TextWrapping="WrapWithOverflow" FontWeight="ExtraBold" FontSize="16">You are about to delete this container and 
+                ALL of the blobs contained within. Once this has been done, it CANNOT be undone. If you are sure this is what you want
+                to do, press the delete button below. Otherwise press cancel.
+            </TextBlock>
+        </StackPanel>
+        <Button Name="btnCancel" Grid.Row="2" Grid.Column="0" Content="Cancel" Click="btnCancel_Click" />
+        <Button Name="btnOk" Grid.Row="2" Grid.Column="2" Content="Delete" Click="btnOk_Click"/>
+    </Grid>
+
+</Window>

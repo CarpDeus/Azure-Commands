@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<entry xml:base="http://finseldemos.table.core.windows.net/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+ <m:properties>
+  <d:PartitionKey>0fabde19-5a57-4075-85fa-11fd2acd282c</d:PartitionKey>
+  <d:RowKey>Status</d:RowKey>
+  <d:CurrentStepNumber m:type="Edm.Int32">1</d:CurrentStepNumber>
+  <d:CurrentStep>PaymentProcessing</d:CurrentStep>
+  </m:properties>
+
+ <m:properties>
+  <d:PartitionKey>3d100889-ba9b-4659-b929-30028e8a5b63</d:PartitionKey>
+  <d:RowKey>Status</d:RowKey>
+  <d:CurrentStepNumber m:type="Edm.Int32">1</d:CurrentStepNumber>
+  <d:CurrentStep>PaymentProcessing</d:CurrentStep>
+ </m:properties>
+
+ <m:properties>
+  <d:PartitionKey>bf8c3ac0-4bcf-43f2-91bc-415402ebc368</d:PartitionKey>
+  <d:RowKey>Status</d:RowKey>
+  <d:CurrentStepNumber m:type="Edm.Int32">1</d:CurrentStepNumber>
+  <d:CurrentStep>PaymentProcessing</d:CurrentStep>
+ </m:properties>
+
+ <m:properties>
+  <d:PartitionKey>c0b47aa5-2485-4e51-b8c1-40e3b4f804fc</d:PartitionKey>
+  <d:RowKey>Status</d:RowKey>
+  <d:CurrentStepNumber m:type="Edm.Int32">1</d:CurrentStepNumber>
+  <d:CurrentStep>PaymentProcessing</d:CurrentStep>
+ </m:properties>
+
+</entry>

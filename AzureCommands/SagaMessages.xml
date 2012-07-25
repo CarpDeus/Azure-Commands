@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sagas>
+ <Saga>
+  <TransactionID>0fabde19-5a57-4075-85fa-11fd2acd282c</TransactionID>
+  <ProcessType>Registration</ProcessType>
+  <StepName>PaymentProcessing</StepName>
+  <StepNumber>1</StepNumber>
+  <UserID>BSBEV</UserID>
+  <PaymentAmount>595</PaymentAmount>
+  <PaymentType>PO</PaymentType>
+  
+ </Saga>
+
+ <Saga>
+  <TransactionID>3d100889-ba9b-4659-b929-30028e8a5b63</TransactionID>
+  <ProcessType>Registration</ProcessType>
+  <StepName>PaymentProcessing</StepName>
+  <StepNumber>1</StepNumber>
+  <UserID>ANTON</UserID>
+  <PaymentAmount>595</PaymentAmount>
+  <PaymentType>CreditCard</PaymentType>
+
+ </Saga>
+
+ <Saga>
+  <TransactionID>bf8c3ac0-4bcf-43f2-91bc-415402ebc368</TransactionID>
+  <ProcessType>Registration</ProcessType>
+  <StepName>PaymentProcessing</StepName>
+  <StepNumber>1</StepNumber>
+  <UserID>BLONP</UserID>
+  <PaymentAmount>595</PaymentAmount>
+  <PaymentType>CreditCard</PaymentType>
+
+ </Saga>
+
+ <Saga>
+  <TransactionID>c0b47aa5-2485-4e51-b8c1-40e3b4f804fc</TransactionID>
+  <ProcessType>Registration</ProcessType>
+  <StepName>PaymentProcessing</StepName>
+  <StepNumber>1</StepNumber>
+  <UserID>DRACD</UserID>
+  <PaymentAmount>595</PaymentAmount>
+  <PaymentType>CreditCard</PaymentType>
+ 
+ </Saga>
+</Sagas>

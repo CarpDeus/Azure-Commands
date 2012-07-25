@@ -1,0 +1,788 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<entry xml:base="http://finseldemos.table.core.windows.net/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>ALFKI</d:RowKey>
+  <d:EmailAddress>Maria.Anders@Alfreds-Futterkiste.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Maria Ander</d:LastName>
+  <d:PhoneNumber>030-0074321</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>ANATR</d:RowKey>
+  <d:EmailAddress>Ana.Trujillo@Ana-Trujillo-Emparedados-y-helados.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Ana Trujill</d:LastName>
+  <d:PhoneNumber>(5) 555-4729</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>ANTON</d:RowKey>
+  <d:EmailAddress>Antonio.Moreno@Antonio-Moreno-Taquería.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Antonio Moren</d:LastName>
+  <d:PhoneNumber>(5) 555-3932</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>AROUT</d:RowKey>
+  <d:EmailAddress>Thomas.Hardy@Around-the-Horn.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Thomas Hard</d:LastName>
+  <d:PhoneNumber>(171) 555-7788</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>BERGS</d:RowKey>
+  <d:EmailAddress>Christina.Berglund@Berglunds-snabbköp.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Christina Berglun</d:LastName>
+  <d:PhoneNumber>0921-12 34 65</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>BLAUS</d:RowKey>
+  <d:EmailAddress>Hanna.Moos@Blauer-See-Delikatessen.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Hanna Moo</d:LastName>
+  <d:PhoneNumber>0621-08460</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>BLONP</d:RowKey>
+  <d:EmailAddress>Frédérique.Citeaux@Blondesddsl-père-et-fils.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Frédérique Citeau</d:LastName>
+  <d:PhoneNumber>88.60.15.31</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>BOLID</d:RowKey>
+  <d:EmailAddress>Martín.Sommer@Bólido-Comidas-preparadas.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Martín Somme</d:LastName>
+  <d:PhoneNumber>(91) 555 22 82</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>BONAP</d:RowKey>
+  <d:EmailAddress>Laurence.Lebihan@Bon-app'.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Laurence Lebiha</d:LastName>
+  <d:PhoneNumber>91.24.45.40</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>BOTTM</d:RowKey>
+  <d:EmailAddress>Elizabeth.Lincoln@Bottom-Dollar-Markets.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Elizabeth Lincol</d:LastName>
+  <d:PhoneNumber>(604) 555-4729</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>BSBEV</d:RowKey>
+  <d:EmailAddress>Victoria.Ashworth@B's-Beverages.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Victoria Ashwort</d:LastName>
+  <d:PhoneNumber>(171) 555-1212</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>CACTU</d:RowKey>
+  <d:EmailAddress>Patricio.Simpson@Cactus-Comidas-para-llevar.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Patricio Simpso</d:LastName>
+  <d:PhoneNumber>(1) 135-5555</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>CENTC</d:RowKey>
+  <d:EmailAddress>Francisco.Chang@Centro-comercial-Moctezuma.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Francisco Chan</d:LastName>
+  <d:PhoneNumber>(5) 555-3392</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>CHOPS</d:RowKey>
+  <d:EmailAddress>Yang.Wang@Chop-suey-Chinese.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Yang Wan</d:LastName>
+  <d:PhoneNumber>0452-076545</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>COMMI</d:RowKey>
+  <d:EmailAddress>Pedro.Afonso@Comércio-Mineiro.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Pedro Afons</d:LastName>
+  <d:PhoneNumber>(11) 555-7647</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>CONSH</d:RowKey>
+  <d:EmailAddress>Elizabeth.Brown@Consolidated-Holdings.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Elizabeth Brow</d:LastName>
+  <d:PhoneNumber>(171) 555-2282</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>DRACD</d:RowKey>
+  <d:EmailAddress>Sven.Ottlieb@Drachenblut-Delikatessen.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Sven Ottlie</d:LastName>
+  <d:PhoneNumber>0241-039123</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>DUMON</d:RowKey>
+  <d:EmailAddress>Janine.Labrune@Du-monde-entier.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Janine Labrun</d:LastName>
+  <d:PhoneNumber>40.67.88.88</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>EASTC</d:RowKey>
+  <d:EmailAddress>Ann.Devon@Eastern-Connection.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Ann Devo</d:LastName>
+  <d:PhoneNumber>(171) 555-0297</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>ERNSH</d:RowKey>
+  <d:EmailAddress>Roland.Mendel@Ernst-Handel.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Roland Mende</d:LastName>
+  <d:PhoneNumber>7675-3425</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>FAMIA</d:RowKey>
+  <d:EmailAddress>Aria.Cruz@Familia-Arquibaldo.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Aria Cru</d:LastName>
+  <d:PhoneNumber>(11) 555-9857</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>FISSA</d:RowKey>
+  <d:EmailAddress>Diego.Roel@FISSA-Fabrica-Inter.-Salchichas-S.A..com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Diego Roe</d:LastName>
+  <d:PhoneNumber>(91) 555 94 44</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>FOLIG</d:RowKey>
+  <d:EmailAddress>Martine.Rancé@Folies-gourmandes.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Martine Ranc</d:LastName>
+  <d:PhoneNumber>20.16.10.16</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>FOLKO</d:RowKey>
+  <d:EmailAddress>Maria.Larsson@Folk-och-fä-HB.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Maria Larsso</d:LastName>
+  <d:PhoneNumber>0695-34 67 21</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>FRANK</d:RowKey>
+  <d:EmailAddress>Peter.Franken@Frankenversand.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Peter Franke</d:LastName>
+  <d:PhoneNumber>089-0877310</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>FRANR</d:RowKey>
+  <d:EmailAddress>Carine.Schmitt@France-restauration.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Carine Schmit</d:LastName>
+  <d:PhoneNumber>40.32.21.21</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>FRANS</d:RowKey>
+  <d:EmailAddress>Paolo.Accorti@Franchi-S.p.A..com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Paolo Accort</d:LastName>
+  <d:PhoneNumber>011-4988260</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>FURIB</d:RowKey>
+  <d:EmailAddress>Lino.Rodriguez@Furia-Bacalhau-e-Frutos-do-Mar.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Lino Rodrigue</d:LastName>
+  <d:PhoneNumber>(1) 354-2534</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>GALED</d:RowKey>
+  <d:EmailAddress>Eduardo.Saavedra@Galería-del-gastrónomo.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Eduardo Saavedr</d:LastName>
+  <d:PhoneNumber>(93) 203 4560</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>GODOS</d:RowKey>
+  <d:EmailAddress>José.Pedro.Freyre@Godos-Cocina-Típica.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>José Pedro Freyr</d:LastName>
+  <d:PhoneNumber>(95) 555 82 82</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>GOURL</d:RowKey>
+  <d:EmailAddress>André.Fonseca@Gourmet-Lanchonetes.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>André Fonsec</d:LastName>
+  <d:PhoneNumber>(11) 555-9482</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>GREAL</d:RowKey>
+  <d:EmailAddress>Howard.Snyder@Great-Lakes-Food-Market.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Howard Snyde</d:LastName>
+  <d:PhoneNumber>(503) 555-7555</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>GROSR</d:RowKey>
+  <d:EmailAddress>Manuel.Pereira@GROSELLA-Restaurante.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Manuel Pereir</d:LastName>
+  <d:PhoneNumber>(2) 283-2951</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>HANAR</d:RowKey>
+  <d:EmailAddress>Mario.Pontes@Hanari-Carnes.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Mario Ponte</d:LastName>
+  <d:PhoneNumber>(21) 555-0091</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>HILAA</d:RowKey>
+  <d:EmailAddress>Carlos.Hernández@HILARION-Abastos.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Carlos Hernánde</d:LastName>
+  <d:PhoneNumber>(5) 555-1340</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>HUNGC</d:RowKey>
+  <d:EmailAddress>Yoshi.Latimer@Hungry-Coyote-Import-Store.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Yoshi Latime</d:LastName>
+  <d:PhoneNumber>(503) 555-6874</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>HUNGO</d:RowKey>
+  <d:EmailAddress>Patricia.McKenna@Hungry-Owl-All-Night-Grocers.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Patricia McKenn</d:LastName>
+  <d:PhoneNumber>2967 542</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>ISLAT</d:RowKey>
+  <d:EmailAddress>Helen.Bennett@Island-Trading.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Helen Bennet</d:LastName>
+  <d:PhoneNumber>(198) 555-8888</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>KOENE</d:RowKey>
+  <d:EmailAddress>Philip.Cramer@Königlich-Essen.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Philip Crame</d:LastName>
+  <d:PhoneNumber>0555-09876</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>LACOR</d:RowKey>
+  <d:EmailAddress>Daniel.Tonini@La-corne-d'abondance.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Daniel Tonin</d:LastName>
+  <d:PhoneNumber>30.59.84.10</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>LAMAI</d:RowKey>
+  <d:EmailAddress>Annette.Roulet@La-maison-d'Asie.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Annette Roule</d:LastName>
+  <d:PhoneNumber>61.77.61.10</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>LAUGB</d:RowKey>
+  <d:EmailAddress>Yoshi.Tannamuri@Laughing-Bacchus-Wine-Cellars.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Yoshi Tannamur</d:LastName>
+  <d:PhoneNumber>(604) 555-3392</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>LAZYK</d:RowKey>
+  <d:EmailAddress>John.Steel@Lazy-K-Kountry-Store.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>John Stee</d:LastName>
+  <d:PhoneNumber>(509) 555-7969</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>LEHMS</d:RowKey>
+  <d:EmailAddress>Renate.Messner@Lehmanns-Marktstand.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Renate Messne</d:LastName>
+  <d:PhoneNumber>069-0245984</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>LETSS</d:RowKey>
+  <d:EmailAddress>Jaime.Yorres@Let's-Stop-N-Shop.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Jaime Yorre</d:LastName>
+  <d:PhoneNumber>(415) 555-5938</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>LILAS</d:RowKey>
+  <d:EmailAddress>Carlos.González@LILA-Supermercado.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Carlos Gonzále</d:LastName>
+  <d:PhoneNumber>(9) 331-6954</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>LINOD</d:RowKey>
+  <d:EmailAddress>Felipe.Izquierdo@LINO-Delicateses.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Felipe Izquierd</d:LastName>
+  <d:PhoneNumber>(8) 34-56-12</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>LONEP</d:RowKey>
+  <d:EmailAddress>Fran.Wilson@Lonesome-Pine-Restaurant.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Fran Wilso</d:LastName>
+  <d:PhoneNumber>(503) 555-9573</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>MAGAA</d:RowKey>
+  <d:EmailAddress>Giovanni.Rovelli@Magazzini-Alimentari-Riuniti.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Giovanni Rovell</d:LastName>
+  <d:PhoneNumber>035-640230</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>MAISD</d:RowKey>
+  <d:EmailAddress>Catherine.Dewey@Maison-Dewey.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Catherine Dewe</d:LastName>
+  <d:PhoneNumber>(02) 201 24 67</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>MEREP</d:RowKey>
+  <d:EmailAddress>Jean.Fresnière@Mère-Paillarde.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Jean Fresnièr</d:LastName>
+  <d:PhoneNumber>(514) 555-8054</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>MORGK</d:RowKey>
+  <d:EmailAddress>Alexander.Feuer@Morgenstern-Gesundkost.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Alexander Feue</d:LastName>
+  <d:PhoneNumber>0342-023176</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>NORTS</d:RowKey>
+  <d:EmailAddress>Simon.Crowther@North/South.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Simon Crowthe</d:LastName>
+  <d:PhoneNumber>(171) 555-7733</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>OCEAN</d:RowKey>
+  <d:EmailAddress>Yvonne.Moncada@Océano-Atlántico-Ltda..com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Yvonne Moncad</d:LastName>
+  <d:PhoneNumber>(1) 135-5333</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>OLDWO</d:RowKey>
+  <d:EmailAddress>Rene.Phillips@Old-World-Delicatessen.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Rene Phillip</d:LastName>
+  <d:PhoneNumber>(907) 555-7584</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>OTTIK</d:RowKey>
+  <d:EmailAddress>Henriette.Pfalzheim@Ottilies-Käseladen.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Henriette Pfalzhei</d:LastName>
+  <d:PhoneNumber>0221-0644327</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>PARIS</d:RowKey>
+  <d:EmailAddress>Marie.Bertrand@Paris-spécialités.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Marie Bertran</d:LastName>
+  <d:PhoneNumber>(1) 42.34.22.66</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>PERIC</d:RowKey>
+  <d:EmailAddress>Guillermo.Fernández@Pericles-Comidas-clásicas.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Guillermo Fernánde</d:LastName>
+  <d:PhoneNumber>(5) 552-3745</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>PICCO</d:RowKey>
+  <d:EmailAddress>Georg.Pipps@Piccolo-und-mehr.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Georg Pipp</d:LastName>
+  <d:PhoneNumber>6562-9722</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>PRINI</d:RowKey>
+  <d:EmailAddress>Isabel.de.Castro@Princesa-Isabel-Vinhos.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Isabel de Castr</d:LastName>
+  <d:PhoneNumber>(1) 356-5634</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>QUEDE</d:RowKey>
+  <d:EmailAddress>Bernardo.Batista@Que-Delícia.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Bernardo Batist</d:LastName>
+  <d:PhoneNumber>(21) 555-4252</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>QUEEN</d:RowKey>
+  <d:EmailAddress>Lúcia.Carvalho@Queen-Cozinha.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Lúcia Carvalh</d:LastName>
+  <d:PhoneNumber>(11) 555-1189</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>QUICK</d:RowKey>
+  <d:EmailAddress>Horst.Kloss@QUICK-Stop.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Horst Klos</d:LastName>
+  <d:PhoneNumber>0372-035188</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>RANCH</d:RowKey>
+  <d:EmailAddress>Sergio.Gutiérrez@Rancho-grande.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Sergio Gutiérre</d:LastName>
+  <d:PhoneNumber>(1) 123-5555</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>RATTC</d:RowKey>
+  <d:EmailAddress>Paula.Wilson@Rattlesnake-Canyon-Grocery.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Paula Wilso</d:LastName>
+  <d:PhoneNumber>(505) 555-5939</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>REGGC</d:RowKey>
+  <d:EmailAddress>Maurizio.Moroni@Reggiani-Caseifici.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Maurizio Moron</d:LastName>
+  <d:PhoneNumber>0522-556721</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>RICAR</d:RowKey>
+  <d:EmailAddress>Janete.Limeira@Ricardo-Adocicados.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Janete Limeir</d:LastName>
+  <d:PhoneNumber>(21) 555-3412</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>RICSU</d:RowKey>
+  <d:EmailAddress>Michael.Holz@Richter-Supermarkt.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Michael Hol</d:LastName>
+  <d:PhoneNumber>0897-034214</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>ROMEY</d:RowKey>
+  <d:EmailAddress>Alejandra.Camino@Romero-y-tomillo.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Alejandra Camin</d:LastName>
+  <d:PhoneNumber>(91) 745 6200</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>SANTG</d:RowKey>
+  <d:EmailAddress>Jonas.Bergulfsen@Santé-Gourmet.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Jonas Bergulfse</d:LastName>
+  <d:PhoneNumber>07-98 92 35</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>SAVEA</d:RowKey>
+  <d:EmailAddress>Jose.Pavarotti@Save-a-lot-Markets.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Jose Pavarott</d:LastName>
+  <d:PhoneNumber>(208) 555-8097</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>SEVES</d:RowKey>
+  <d:EmailAddress>Hari.Kumar@Seven-Seas-Imports.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Hari Kuma</d:LastName>
+  <d:PhoneNumber>(171) 555-1717</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>SIMOB</d:RowKey>
+  <d:EmailAddress>Jytte.Petersen@Simons-bistro.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Jytte Peterse</d:LastName>
+  <d:PhoneNumber>31 12 34 56</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>SPECD</d:RowKey>
+  <d:EmailAddress>Dominique.Perrier@Spécialités-du-monde.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Dominique Perrie</d:LastName>
+  <d:PhoneNumber>(1) 47.55.60.10</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>SPLIR</d:RowKey>
+  <d:EmailAddress>Art.Braunschweiger@Split-Rail-Beer-Ale.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Art Braunschweige</d:LastName>
+  <d:PhoneNumber>(307) 555-4680</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>SUPRD</d:RowKey>
+  <d:EmailAddress>Pascale.Cartrain@Suprêmes-délices.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Pascale Cartrai</d:LastName>
+  <d:PhoneNumber>(071) 23 67 22 20</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>THEBI</d:RowKey>
+  <d:EmailAddress>Liz.Nixon@The-Big-Cheese.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Liz Nixo</d:LastName>
+  <d:PhoneNumber>(503) 555-3612</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>THECR</d:RowKey>
+  <d:EmailAddress>Liu.Wong@The-Cracker-Box.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Liu Won</d:LastName>
+  <d:PhoneNumber>(406) 555-5834</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>TOMSP</d:RowKey>
+  <d:EmailAddress>Karin.Josephs@Toms-Spezialitäten.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Karin Joseph</d:LastName>
+  <d:PhoneNumber>0251-031259</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>TORTU</d:RowKey>
+  <d:EmailAddress>Miguel.Angel.Paolino@Tortuga-Restaurante.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Miguel Angel Paolin</d:LastName>
+  <d:PhoneNumber>(5) 555-2933</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>TRADH</d:RowKey>
+  <d:EmailAddress>Anabela.Domingues@Tradição-Hipermercados.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Anabela Domingue</d:LastName>
+  <d:PhoneNumber>(11) 555-2167</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>TRAIH</d:RowKey>
+  <d:EmailAddress>Helvetius.Nagy@Trail's-Head-Gourmet-Provisioners.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Helvetius Nag</d:LastName>
+  <d:PhoneNumber>(206) 555-8257</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>VAFFE</d:RowKey>
+  <d:EmailAddress>Palle.Ibsen@Vaffeljernet.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Palle Ibse</d:LastName>
+  <d:PhoneNumber>86 21 32 43</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>VICTE</d:RowKey>
+  <d:EmailAddress>Mary.Saveley@Victuailles-en-stock.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Mary Savele</d:LastName>
+  <d:PhoneNumber>78.32.54.86</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>VINET</d:RowKey>
+  <d:EmailAddress>Paul.Henriot@Vins-et-alcools-Chevalier.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Paul Henrio</d:LastName>
+  <d:PhoneNumber>26.47.15.10</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>WANDK</d:RowKey>
+  <d:EmailAddress>Rita.Müller@Die-Wandernde-Kuh.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Rita Mülle</d:LastName>
+  <d:PhoneNumber>0711-020361</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>WARTH</d:RowKey>
+  <d:EmailAddress>Pirkko.Koskitalo@Wartian-Herkku.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Pirkko Koskital</d:LastName>
+  <d:PhoneNumber>981-443655</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>WELLI</d:RowKey>
+  <d:EmailAddress>Paula.Parente@Wellington-Importadora.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Paula Parent</d:LastName>
+  <d:PhoneNumber>(14) 555-8122</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>WHITC</d:RowKey>
+  <d:EmailAddress>Karl.Jablonski@White-Clover-Markets.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Karl Jablonsk</d:LastName>
+  <d:PhoneNumber>(206) 555-4112</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>WILMK</d:RowKey>
+  <d:EmailAddress>Matti.Karttunen@Wilman-Kala.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Matti Karttune</d:LastName>
+  <d:PhoneNumber>90-224 8858</d:PhoneNumber>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>RegisteredUsers</d:PartitionKey>
+  <d:RowKey>WOLZA</d:RowKey>
+  <d:EmailAddress>Zbyszek.Piestrzeniewicz@Wolski--Zajazd.com</d:EmailAddress>
+  <d:FirstName></d:FirstName>
+  <d:LastName>Zbyszek Piestrzeniewic</d:LastName>
+  <d:PhoneNumber>(26) 642-7012</d:PhoneNumber>
+ </m:properties>
+
+ <m:properties>
+  <d:PartitionKey>Locations</d:PartitionKey>
+  <d:RowKey>00000000001</d:RowKey>
+  <d:LocationID>00000000001</d:LocationID>
+  <d:LocationName>The Adolphus Hotel</d:LocationName>
+  <d:Address>1321 COMMERCE STREET </d:Address>
+  <d:City>DALLAS</d:City>
+  <d:State>TX</d:State>
+  <d:PostalCode>75202</d:PostalCode>
+  <d:WebAddress>http://www.hoteladolphus.com/</d:WebAddress>
+  <d:PhoneNumber>(214) 742-8200</d:PhoneNumber>
+  <d:Description>Fortune, flamboyance, and fame came together in 1912 to produce the Grande Dame of Dallas hotels.  The founder of The Adolphus hotel in Dallas, Texas, Missouri beer baron Adolphus Busch, chose to honor his adopted city with 21 stories of unabashed baroque splendor.  Critics have called his Texas landmark “the most beautiful building west of Venice.”  Today, still flaunting its historic finery, the luxury Adolphus hotel shines with $80 million worth of renovations and enhancements in the heart of downtown Dallas. </d:Description>
+ </m:properties>
+ 
+ <m:properties>
+  <d:PartitionKey>Locations</d:PartitionKey>
+  <d:RowKey>00000000002</d:RowKey>
+  <d:LocationID>00000000002</d:LocationID>
+  <d:LocationName>Venetian Hotel</d:LocationName>
+  <d:Address>3355 Las Vegas Blvd. South</d:Address>
+  <d:City>Las Vegas</d:City>
+  <d:State>NV</d:State>
+  <d:PostalCode>89109</d:PostalCode>
+  <d:WebAddress>http://www.venetian.com/</d:WebAddress>
+  <d:PhoneNumber>702.414.1000</d:PhoneNumber>
+  <d:Description>Experience the romance of Italy in the heart of the Las Vegas Strip. Beauty and grace surround you at The Venetian Resort Hotel Casino, where every detail has been carefully designed to provide you with a memorable stay – from the world’s largest standard suites to the city’s most elegant casino. Immerse yourself in the enchanting atmosphere of this all-suite Las Vegas hotel resort. Choose from 19 remarkable restaurants – featuring an unprecedented six James Beard Award-winning chefs, including Wolfgang Puck, Emeril Lagasse, and Thomas Keller. Browse the 80 international boutiques of The Grand Canal Shoppes, offering collectibles and couture from such renowned names as Jimmy Choo, Lladro, Dooney &amp; Bourke, and Burberry. Rejuvenate at Canyon Ranch SpaClub – the very picture of rest and relaxation – where a full-service salon, fitness center, rock-climbing wall, and indulgent packages await. Discover the ideal Las Vegas resort vacation destination and business retreat – where exquisite all-suite accommodations, attentive service, and endless attractions converge in a magnificent setting.</d:Description>
+ </m:properties>
+</entry>
+
+<!--
+ <?xml version="1.0" encoding="utf-8" ?>
+<entry xml:base="http://finseldemos.table.core.windows.net/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+
+ <m:properties>
+  <d:PartitionKey>Locations</d:PartitionKey>
+  <d:RowKey>00000000003</d:RowKey>
+  <d:LocationID>00000000003</d:LocationID>
+  <d:LocationName>Hyatt Regency San Francisco</d:LocationName>
+  <d:Address>5 Embarcadero Center</d:Address>
+  <d:City>San Francisco</d:City>
+  <d:State>California</d:State>
+  <d:PostalCode>94111</d:PostalCode>
+  <d:WebAddress>http://sanfranciscoregency.hyatt.com/hyatt/hotels/index.jsp</d:WebAddress>
+  <d:PhoneNumber>+1 415 788 1234</d:PhoneNumber>
+  <d:Description>Luxury and location converge in perfect balance at Hyatt Regency San Francisco. The only Four-Diamond downtown San Francisco hotel situated right on the Embarcadero waterfront, our guests will enjoy immediate access to both the Financial District and the city's most famous attractions. You'll find the historic Ferry Building on one side of our expansive San Francisco California hotel, the ferry to Alcatraz and the Bay on the other, and stunning views all around. With so many options, you may choose to wander through Chinatown to Fisherman's Wharf, shop in Union Square or board the cable cars for a riding tour of the city. Equally impressive are our extensive in-house amenities, with venues created to host any number of group events, tempting dining choices and, of course, the impeccable service that is the hallmark of our hotel in downtown San Francisco.</d:Description>
+ </m:properties>
+ <m:properties>
+  <d:PartitionKey>Event</d:PartitionKey>
+  <d:RowKey>VSLiveLV09</d:RowKey>
+  <d:EventName>VS Live Las Vegas</d:EventName>
+  <d:EventStartDate m:type="Edm.DateTime">2009-06-08T16:00:00Z</d:EventStartDate>
+  <d:EventStopDate m:type="Edm.DateTime">2009-06-11T02:00:00Z</d:EventStopDate>
+  <d:LocationID>00000000002</d:LocationID>
+ </m:properties>
+
+</entry>
+-->
